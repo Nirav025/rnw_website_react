@@ -22,7 +22,7 @@ This project is a **fully responsive website** developed using **React** and **B
 ---
 
 ## 📸 Project Preview
-<img src="./rnw.png" alt="Project Preview" width="800"/>
+<img src="./rnw.png" alt="Project Preview" />
 
 ---
 
